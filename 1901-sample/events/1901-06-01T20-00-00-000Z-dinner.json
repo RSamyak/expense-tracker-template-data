@@ -1,0 +1,14 @@
+{
+  "entry": "dinner",
+  "at": "1901-06-01T20:00:00.000Z",
+  "by": "asha",
+  "kind": "expense",
+  "date": "1901-06-01",
+  "description": "Dinner",
+  "category": "Food",
+  "currency": "INR",
+  "paid": {
+    "asha": "900"
+  },
+  "via": "Online"
+}

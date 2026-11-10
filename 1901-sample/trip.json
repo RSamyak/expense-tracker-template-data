@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "name": "Sample",
+  "base": "INR",
+  "currencies": {
+    "EUR": [
+      "1",
+      "90.00"
+    ]
+  },
+  "members": [
+    {
+      "id": "asha",
+      "name": "Asha"
+    },
+    {
+      "id": "bala",
+      "name": "Bala"
+    },
+    {
+      "id": "chitra",
+      "name": "Chitra"
+    }
+  ],
+  "categories": [
+    "Food",
+    "Stay",
+    "Travel"
+  ],
+  "instruments": [
+    "Cash",
+    "Online"
+  ]
+}

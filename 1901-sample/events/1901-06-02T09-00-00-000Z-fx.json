@@ -1,0 +1,22 @@
+{
+  "entry": "fx",
+  "at": "1901-06-02T09:00:00.000Z",
+  "by": "asha",
+  "kind": "exchange",
+  "date": "1901-06-02",
+  "description": "Changed rupees",
+  "gave": {
+    "currency": "INR",
+    "by": {
+      "asha": "9000"
+    },
+    "via": "Online"
+  },
+  "got": {
+    "currency": "EUR",
+    "via": "Cash",
+    "by": {
+      "asha": "100"
+    }
+  }
+}

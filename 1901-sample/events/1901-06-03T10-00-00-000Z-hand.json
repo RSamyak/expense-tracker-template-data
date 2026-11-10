@@ -1,0 +1,16 @@
+{
+  "entry": "hand",
+  "at": "1901-06-03T10:00:00.000Z",
+  "by": "asha",
+  "kind": "transfer",
+  "date": "1901-06-03",
+  "description": "Cash to Chitra",
+  "currency": "EUR",
+  "via": "Cash",
+  "from": {
+    "asha": "50"
+  },
+  "to": {
+    "chitra": "50"
+  }
+}

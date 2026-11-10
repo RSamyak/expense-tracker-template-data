@@ -1,0 +1,21 @@
+{
+  "entry": "rooms",
+  "at": "1901-06-02T08:00:00.000Z",
+  "by": "bala",
+  "kind": "expense",
+  "date": "1901-06-02",
+  "description": "Two rooms",
+  "category": "Stay",
+  "currency": "EUR",
+  "paid": {
+    "bala": "120"
+  },
+  "split": {
+    "mode": "equal",
+    "members": [
+      "asha",
+      "bala"
+    ]
+  },
+  "via": "Online"
+}
